@@ -1,0 +1,42 @@
+*** Rebill Subscription for WooCommerce Changelog ***
+
+2022-06-17 - version 1.0.12
+- Important bugfixes for invalid subscription order
+
+2022-06-10 - version 1.0.11
+* Added Feature: Customer and Seller can modify shipping address in active subscription
+* Added Feature: Allow only one subscription active by customer
+* Added Feature: Allow only one subscription products by cart
+
+2022-06-07 - version 1.0.10
+* Fixed nonce check issues on some forms
+* Fixed cancelled subscription
+
+2022-05-04 - version 1.0.9
+* Bugfix bad format of Add to Cart script
+* Bugfix empty DNI/Country in some case
+
+2022-04-28 - version 1.0.8
+* Fix DNI request
+
+2022-03-17 - version 1.0.7
+* Removed DNI request in MX
+
+2022-02-10 - version 1.0.6
+* Responsive template in request card
+
+2022-01-12 - version 1.0.5
+* Removed bugfix of API "hack" for invalid value of External Reference in Description
+
+2022-01-10 - version 1.0.4
+* Fix duplication payment
+* Obfuscate CVV/Expiration credit card in Front-end.
+
+2022-01-10 - version 1.0.3
+* Fix identification type by country 
+
+2022-12-30 - version 1.0.2
+* Fix translations
+
+2022-12-28 - version 1.0.1
+* Initial release

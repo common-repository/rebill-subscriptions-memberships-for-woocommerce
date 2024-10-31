@@ -1,0 +1,1154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rebill WooCommerce Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-31 10:46-0400\n"
+"PO-Revision-Date: 2022-06-07 17:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de Perú\n"
+"Language: es_PE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.5.5; wp-5.8.4\n"
+"X-Domain: wc-rebill-subscription\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: templates/credit-card-request.php:66
+msgid " Card Number"
+msgstr " Número de tarjeta"
+
+#: templates/myaccount-table-items.php:227
+#, php-format
+msgid "%s repetition"
+msgid_plural " %s repetitions"
+msgstr[0] "%s repetición"
+msgstr[1] " %s repeticiones"
+
+#. %s Quantity of product.
+#: includes/class-wc-rebill-gateway.php:282
+#: includes/class-wc-rebill-gateway.php:305
+#, php-format
+msgid "%s U. of"
+msgstr "%s U. de"
+
+#: templates/admin-metabox.php:164 templates/myaccount-list-orders.php:29
+#: templates/myaccount-list-orders.php:98
+msgid "Actions"
+msgstr "Acciones"
+
+#: includes/data-settings-rebill-gateway.php:18
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/data-settings-rebill-gateway.php:20
+msgid "Activate Rebill"
+msgstr "Activar Rebill"
+
+#: templates/myaccount-table-items.php:19
+#: templates/myaccount-list-orders.php:52
+msgid "Active"
+msgstr "Activo"
+
+#: includes/data-settings-rebill-gateway.php:33
+msgid "Add a description to this payment method"
+msgstr "Agrega una descripción a este método de pago"
+
+#: templates/credit-card-request.php:32
+msgid "Add new credit card"
+msgstr "Agregar nueva tarjeta de crédito"
+
+#: includes/data-settings-rebill-gateway.php:26
+msgid "Add the name to rebill that will be shown to the client"
+msgstr "Agregue el nombre de Rebill que se le mostrará al cliente"
+
+#: templates/admin-metabox.php:241
+#: templates/myaccount-list-related-orders.php:19
+msgid "All orders for this subscription"
+msgstr "Todos los pedidos de esta suscripción"
+
+#: includes/data-settings-rebill-gateway.php:82
+msgid "Allow one pay products and subscription products in same cart"
+msgstr ""
+"Permitir productos de pago y productos de suscripción en el mismo carrito"
+
+#: includes/data-settings-rebill-gateway.php:94
+msgid "Allow only one subscription active by customer"
+msgstr "Permitir solo una suscripción activa por cliente"
+
+#: includes/data-settings-rebill-gateway.php:88
+msgid "Allow only one subscription products by cart"
+msgstr "Permitir solo una suscripción de productos por carrito"
+
+#: templates/admin-metabox.php:252 templates/admin-metabox.php:279
+#: templates/myaccount-list-related-orders.php:28
+#: templates/myaccount-list-related-orders.php:61
+msgid "Amount"
+msgstr "Monto"
+
+#: functions.php:1169
+msgid ""
+"An e-mail has been sent to customer from Rebill.to to update the card "
+"details."
+msgstr ""
+"Se envió un correo electrónico al cliente desde Rebill.to para actualizar "
+"los detalles de la tarjeta."
+
+#: functions.php:1016
+msgid ""
+"An e-mail has been sent to your e-mail from Rebill.to to update the card "
+"details."
+msgstr ""
+"Se ha enviado un correo electrónico a su correo electrónico desde Rebill.to "
+"para actualizar los detalles de la tarjeta."
+
+#: includes/class-wc-rebill-cart.php:842 includes/class-wc-rebill-cart.php:993
+#: includes/class-wc-rebill-product.php:207
+msgid "and it has an extra sign-up fee of"
+msgstr "y tiene una costo por alta de"
+
+#. %d: Order ID.
+#. %d Order ID.
+#: templates/myaccount-table-items.php:188 templates/admin-metabox.php:172
+#: templates/myaccount-list-orders.php:115
+#, php-format
+msgid ""
+"Are you completely sure to cancel the subscription #%d? This will be "
+"irreversible"
+msgstr ""
+"¿Está completamente seguro de cancelar la suscripción #%d? Esto será "
+"irreversible"
+
+#. %d Order ID.
+#: templates/admin-metabox.php:169
+#, php-format
+msgid ""
+"Are you sure you want to request to renew card for the subscription #%d?"
+msgstr ""
+"¿Está seguro de que desea solicitar la renovación de la tarjeta para la "
+"suscripción #%d?"
+
+#: functions.php:505
+msgid "Cadastro de Pessoas Físicas"
+msgstr "Cadastro de Pessoas Físicas"
+
+#: functions.php:506
+msgid "Cadastro Nacional da Pessoa Jurídica"
+msgstr "Cadastro Nacional da Pessoa Jurídica"
+
+#: templates/admin-metabox.php:173
+msgid "Cancel Subscription"
+msgstr "Cancelar suscripción"
+
+#: templates/myaccount-table-items.php:189
+#: templates/myaccount-list-orders.php:116
+msgid "Cancel subscription"
+msgstr "Cancelar suscripción"
+
+#: templates/myaccount-table-items.php:31
+#: templates/myaccount-list-orders.php:64
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#: templates/credit-card-request.php:70
+msgid "Card Holder"
+msgstr "Titular de la tarjeta"
+
+#: functions.php:520
+msgid "Carné de Extranjería"
+msgstr "Carné de Extranjería"
+
+#: templates/myaccount-table-items.php:184
+#: templates/myaccount-list-orders.php:111
+msgid "Change Card"
+msgstr "Cambiar tarjeta"
+
+#. %s: Frequency value.
+#: templates/admin-metabox.php:127
+#, php-format
+msgid "Client pay every %s day"
+msgid_plural "Client pay every %s days"
+msgstr[0] "El cliente paga cada %s día"
+msgstr[1] "El cliente paga cada %s días"
+
+#. %s: Frequency value.
+#: templates/admin-metabox.php:131
+#, php-format
+msgid "Client pay every %s month"
+msgid_plural "Client pay every %s months"
+msgstr[0] "El cliente paga cada %s mes"
+msgstr[1] "El cliente paga cada %s meses"
+
+#. %s: Frequency value.
+#: templates/admin-metabox.php:135
+#, php-format
+msgid "Client pay every %s year"
+msgid_plural "Client pay every %s years"
+msgstr[0] "El cliente paga cada %s año"
+msgstr[1] "El cliente paga cada% s años"
+
+#: templates/myaccount-table-items.php:22
+#: templates/myaccount-list-orders.php:55
+msgid "Collection failed"
+msgstr "No se pudo cobrar"
+
+#: templates/credit-card-request.php:83
+msgid "CVC/CVV"
+msgstr "CVC / CVV"
+
+#: functions.php:499
+msgid "Cédula"
+msgstr "Cédula"
+
+#: functions.php:513
+msgid "Cédula de Ciudadanía"
+msgstr "Cédula de Ciudadanía"
+
+#: functions.php:514
+msgid "Cédula de Extranjería"
+msgstr "Cédula de Extranjería"
+
+#: functions.php:524
+msgid "Cédula de Identidad"
+msgstr "Cédula de Identidad"
+
+#: templates/admin-metabox.php:250 templates/admin-metabox.php:273
+#: templates/myaccount-list-related-orders.php:26
+#: templates/myaccount-list-related-orders.php:55
+#: templates/myaccount-list-orders.php:25
+#: templates/myaccount-list-orders.php:84
+msgid "Date"
+msgstr "Fecha"
+
+#: functions.php:365 functions.php:434 templates/admin-metabox.php:189
+msgid "Day"
+msgstr "Día"
+
+#: includes/data-settings-rebill-gateway.php:102
+msgid "Deactivate in one-time purchase"
+msgstr "Desactivar en una compra única"
+
+#: includes/data-settings-rebill-gateway.php:100
+msgid ""
+"Deactivate rebill if the customer has not added subscriptions in the "
+"shopping cart"
+msgstr ""
+"Desactivar Rebill si el cliente no ha agregado suscripciones en el carrito "
+"de compras"
+
+#: includes/data-settings-rebill-gateway.php:106
+msgid "Debug"
+msgstr "Depurar"
+
+#: templates/myaccount-table-items.php:34
+#: templates/myaccount-list-orders.php:67
+msgid "Defaulted"
+msgstr "Incumplido"
+
+#: includes/class-wc-rebill-product.php:109
+msgid "Delivery this"
+msgstr "Se enviará"
+
+#: includes/data-settings-rebill-gateway.php:31
+msgid "Description"
+msgstr "Descripción"
+
+#: functions.php:498 functions.php:519
+msgid "DNI"
+msgstr "DNI"
+
+#: functions.php:475
+msgid ""
+"Do not charge at the moment, everything is charged on the established day"
+msgstr "No cobrar al momento, todo se carga en el día establecido"
+
+#: templates/credit-card-request.php:72
+msgid "e.g. John Doe"
+msgstr "p.ej. John Doe"
+
+#: functions.php:355
+msgid "Empty to ignore"
+msgstr "Vacío para ignorar"
+
+#: functions.php:456
+msgid "Empty to ignore, Input 1 to 27, only applies to frequency monthly"
+msgstr ""
+"Vacío para ignorar, entrada 1 a 27, solo se aplica a la frecuencia mensual"
+
+#: functions.php:346
+msgid "Empty to use the base price of product"
+msgstr "Vacío para usar el precio base del producto"
+
+#: includes/data-settings-rebill-gateway.php:108
+msgid "Enable log"
+msgstr "Habilitar registro"
+
+#: includes/data-settings-rebill-gateway.php:84
+msgid "Enable mixed cart"
+msgstr "Habilitar carrito mixto"
+
+#: includes/data-settings-rebill-gateway.php:78
+msgid "Enable sandbox mode"
+msgstr "Habilitar el modo Sandbox"
+
+#: functions.php:40 functions.php:170 functions.php:216
+msgid "Error connecting to rebill servers"
+msgstr "Error al conectarse a los servidores de recarga"
+
+#: functions.php:1005 functions.php:1018 functions.php:1158 functions.php:1171
+msgid "Error generating card renewal request"
+msgstr "Error al generar la solicitud de renovación de la tarjeta"
+
+#: functions.php:991 functions.php:1141
+msgid "Error requesting the cancellation of this subscription"
+msgstr "Error al solicitar la cancelación de esta suscripción"
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-product.php:120
+#, php-format
+msgid "Every %s day"
+msgid_plural "Every %s days"
+msgstr[0] "Cada %s día"
+msgstr[1] "Cada %s días"
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-cart.php:123
+#: includes/class-wc-rebill-product.php:140
+#: includes/class-wc-rebill-product.php:186
+#, php-format
+msgid "every %s day"
+msgid_plural "every %s days"
+msgstr[0] "cada %s día"
+msgstr[1] "cada %s días"
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-product.php:124
+#, php-format
+msgid "Every %s month"
+msgid_plural "Every %s months"
+msgstr[0] "Cada %s mes"
+msgstr[1] "Cada %s meses"
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-cart.php:127
+#: includes/class-wc-rebill-product.php:144
+#: includes/class-wc-rebill-product.php:190
+#, php-format
+msgid "every %s month"
+msgid_plural "every %s months"
+msgstr[0] "cada %s mes"
+msgstr[1] "cada %s meses"
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-product.php:128
+#, php-format
+msgid "Every %s year"
+msgid_plural "Every %s years"
+msgstr[0] "Cada %s año"
+msgstr[1] "Cada %s años"
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-cart.php:131
+#: includes/class-wc-rebill-product.php:148
+#: includes/class-wc-rebill-product.php:194
+#, php-format
+msgid "every %s year"
+msgid_plural "every %s years"
+msgstr[0] "cada %s año"
+msgstr[1] "cada %s años"
+
+#: templates/credit-card-request.php:77
+msgid "Expiration"
+msgstr "Vencimiento"
+
+#: templates/myaccount-table-items.php:25
+#: templates/myaccount-list-orders.php:58
+msgid "Failed"
+msgstr "Fallido"
+
+#: functions.php:736
+msgid "Filter By"
+msgstr "Filtrado por"
+
+#: functions.php:471
+msgid "First Collection type"
+msgstr "Tipo de primera colección"
+
+#: includes/class-wc-rebill-cart.php:868 includes/class-wc-rebill-cart.php:1019
+#: includes/class-wc-rebill-product.php:233
+msgid "First payment"
+msgstr "Primer pago"
+
+#: includes/class-wc-rebill-cart.php:877 includes/class-wc-rebill-cart.php:1028
+#: includes/class-wc-rebill-product.php:242
+msgid "First payment prorated. Next payment"
+msgstr "Primer pago prorrateado. Siguiente pago"
+
+#: functions.php:453
+msgid "Force collection date to a specific day number"
+msgstr "Forzar la fecha de cobro a un número de día específico"
+
+#: templates/myaccount-table-items.php:129
+msgid ""
+"Force collection date to a specific day number (Zero or Empty to use the "
+"first payment day)"
+msgstr ""
+"Forzar la fecha de cobro a un número de día específico (cero o vacío para "
+"usar el primer día de pago)"
+
+#: functions.php:423
+msgid "Free Trial"
+msgstr "Prueba gratis"
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-cart.php:855 includes/class-wc-rebill-cart.php:1006
+#: includes/class-wc-rebill-product.php:220
+#, php-format
+msgid "Free trial for %s day."
+msgid_plural "Free trial for %s days."
+msgstr[0] "Prueba gratuita por %s día."
+msgstr[1] "Prueba gratuita por %s días."
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-cart.php:859 includes/class-wc-rebill-cart.php:1010
+#: includes/class-wc-rebill-product.php:224
+#, php-format
+msgid "Free trial for %s month."
+msgid_plural "Free trial for %s months."
+msgstr[0] "Prueba gratuita durante %s mes."
+msgstr[1] "Prueba gratuita por %s meses."
+
+#: functions.php:442
+msgid "Free Trial Frequency"
+msgstr "Frecuencia de prueba gratuita"
+
+#: functions.php:431
+msgid "Free Trial Frequency Type"
+msgstr "Tipo de frecuencia de prueba gratuita"
+
+#: templates/myaccount-table-items.php:104
+#: templates/myaccount-table-items.php:108
+#: templates/myaccount-table-items.php:220 templates/admin-metabox.php:141
+#: templates/admin-metabox.php:200
+msgid "Frequency"
+msgstr "Frecuencia"
+
+#: functions.php:378
+msgid ""
+"Frequency (comma separated if customer can select from multiple options)"
+msgstr ""
+"Frecuencia (separada por comas si el cliente puede seleccionar entre varias "
+"opciones)"
+
+#: functions.php:380 templates/admin-metabox.php:209
+msgid "Frequency of collection, for example: every 1 month or every 2 months."
+msgstr "Frecuencia de cobro, por ejemplo: cada 1 mes o cada 2 meses."
+
+#: functions.php:362 templates/admin-metabox.php:179
+msgid "Frequency Type"
+msgstr "Tipo de frecuencia"
+
+#: templates/admin-metabox.php:43
+msgid "Gateway Transaction ID"
+msgstr "ID de transacción del Gateway"
+
+#. Author URI of the plugin
+msgid "http://rebill.to/"
+msgstr "http://rebill.to/"
+
+#. URI of the plugin
+msgid "http://www.rebill.to/"
+msgstr "http://www.rebill.to/"
+
+#: functions.php:536
+msgid "Identification Number"
+msgstr "Número de identificación"
+
+#: functions.php:545
+msgid "Identification Type"
+msgstr "Tipo de identificación"
+
+#: includes/data-settings-rebill-gateway.php:51
+msgid "Input you Organization UUID"
+msgstr "Ingrese el UUID de su organización"
+
+#: templates/credit-card-request.php:308 templates/credit-card-request.php:313
+#: templates/credit-card-request.php:319
+msgid ""
+"Internal server error, please do not retry payment without first contacting "
+"a store administrator."
+msgstr ""
+"Error interno del servidor. No vuelva a intentar el pago sin antes ponerse "
+"en contacto con el administrador de la tienda."
+
+#: templates/credit-card-request.php:360
+msgid "Invalid card holder"
+msgstr "Titular de la tarjeta no válido"
+
+#: templates/credit-card-request.php:344
+msgid "Invalid credit card number"
+msgstr "Número de tarjeta de crédito no válido"
+
+#: templates/credit-card-request.php:356
+msgid "Invalid cvc/cvv number"
+msgstr "Número de CVC / CVV no válido"
+
+#: templates/credit-card-request.php:348
+msgid "Invalid expiration month"
+msgstr "Mes de vencimiento no válido"
+
+#: templates/credit-card-request.php:352
+msgid "Invalid expiration year"
+msgstr "Año de vencimiento no válido"
+
+#: functions.php:227
+msgid "Invalid Order"
+msgstr "Pedido inválido"
+
+#: functions.php:500
+msgid "L.C."
+msgstr "L.C."
+
+#: functions.php:501
+msgid "L.E."
+msgstr "L.E."
+
+#: templates/credit-card-request.php:85
+msgid "Last 3 digits"
+msgstr "Últimos 3 dígitos"
+
+#: templates/credit-card-request.php:86
+msgid "Last 4 digits"
+msgstr "Últimos 4 dígitos"
+
+#: includes/class-wc-rebill-cart.php:872 includes/class-wc-rebill-cart.php:881
+#: includes/class-wc-rebill-cart.php:890 includes/class-wc-rebill-cart.php:895
+#: includes/class-wc-rebill-cart.php:900 includes/class-wc-rebill-cart.php:1023
+#: includes/class-wc-rebill-cart.php:1032
+#: includes/class-wc-rebill-cart.php:1041
+#: includes/class-wc-rebill-cart.php:1046
+#: includes/class-wc-rebill-cart.php:1051
+#: includes/class-wc-rebill-product.php:237
+#: includes/class-wc-rebill-product.php:246
+#: includes/class-wc-rebill-product.php:255
+#: includes/class-wc-rebill-product.php:260
+#: includes/class-wc-rebill-product.php:265
+msgid "Last payment"
+msgstr "Ultimo pago"
+
+#: functions.php:397 templates/admin-metabox.php:228
+msgid "Leave empty if it will never expire"
+msgstr "Déjelo vacío si nunca caducará"
+
+#: functions.php:414 includes/data-settings-rebill-gateway.php:57
+msgid "Leave empty to use the default woocommerce page"
+msgstr "Déjelo en blanco para usar la página predeterminada de woocommerce"
+
+#: includes/data-settings-rebill-gateway.php:71
+msgid "Leave orders with payment Accepted in Completed"
+msgstr "Dejar pedidos con pago aceptado en Completado"
+
+#: templates/myaccount-table-items.php:143
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: functions.php:395 templates/admin-metabox.php:226
+msgid "Maximum number of recurring payment"
+msgstr "Número máximo de pago recurrente"
+
+#: templates/myaccount-table-items.php:124
+msgid ""
+"Maximum number of recurring payment (Zero or Empty to infinity recurring "
+"payment)"
+msgstr "Número máximo de pago recurrente (dejar en cero o vacío para infinito)"
+
+#: templates/myaccount-table-items.php:58
+#: templates/myaccount-table-items.php:191
+#: templates/myaccount-table-items.php:198
+#: templates/myaccount-table-items.php:222
+msgid "Modify Subscription"
+msgstr "Modificar suscripción"
+
+#: functions.php:364 functions.php:433 templates/admin-metabox.php:188
+msgid "Month"
+msgstr "Mes"
+
+#: includes/class-wc-rebill-cart.php:394 includes/class-wc-rebill-cart.php:406
+#: includes/class-wc-rebill-cart.php:485 includes/class-wc-rebill-cart.php:497
+msgid "Multiple subscriptions can not be purchased at the same time."
+msgstr "No se pueden comprar varias suscripciones al mismo tiempo."
+
+#: functions.php:821 functions.php:1031
+msgid "My Subscriptions"
+msgstr "Mis Suscripciónes"
+
+#: templates/myaccount-table-items.php:196
+#: templates/myaccount-list-orders.php:27
+#: templates/myaccount-list-orders.php:90
+msgid "Next Payment"
+msgstr "Siguiente pago"
+
+#: includes/class-wc-rebill-cart.php:886 includes/class-wc-rebill-cart.php:1037
+#: includes/class-wc-rebill-product.php:251
+msgid "Next payment"
+msgstr "Siguiente pago"
+
+#: templates/myaccount-list-orders.php:28
+#: templates/myaccount-list-orders.php:93
+msgid "Next payment amount"
+msgstr "Próximo monto de pago"
+
+#: functions.php:515
+msgid "Número de Identificación Tributaria"
+msgstr "Número de Identificación Tributaria"
+
+#: functions.php:696
+msgid "On Rebill"
+msgstr "En Rebill"
+
+#: functions.php:582
+msgid "Once every 5 minutes"
+msgstr "Una vez cada 5 minutos"
+
+#. %1$s One-time price, %2$s subscription price, %3$s Frequency.
+#: includes/class-wc-rebill-cart.php:136
+#, php-format
+msgid "One-time %1$s or %2$s %3$s"
+msgstr "%1$s por única vez o %2$s %3$s "
+
+#: includes/data-settings-rebill-gateway.php:68
+#: includes/class-wc-rebill-gateway.php:67
+#: includes/class-wc-rebill-product.php:31
+msgid "One-time purchase"
+msgstr "Compra única"
+
+#: functions.php:318
+msgid "Only available for subscription"
+msgstr "Solo disponible para suscripción"
+
+#: templates/admin-metabox.php:93 templates/admin-metabox.php:111
+msgid ""
+"Only changes to the parent order will be reflected in the following "
+"recurring payments"
+msgstr ""
+"Solo los cambios en el pedido principal se reflejarán en los siguientes "
+"pagos recurrentes"
+
+#: includes/data-settings-rebill-gateway.php:96
+msgid "Only one subscription active by customer"
+msgstr "Solo una suscripción activa por cliente"
+
+#: includes/data-settings-rebill-gateway.php:90
+msgid "Only one subscription products by cart"
+msgstr "Solo un producto de suscripción por carrito"
+
+#: functions.php:737
+msgid "Only Rebill Order"
+msgstr "Solo pedidos de Rebill"
+
+#: functions.php:740
+msgid "Only Rebill Order (Without Subscription)"
+msgstr "Solo pedidos de Rebill (sin suscripción)"
+
+#: functions.php:741
+msgid "Only Subscription (Parent and Renew)"
+msgstr "Solo pedidos de Rebill (Suscripción y renovación)"
+
+#: functions.php:742
+msgid "Only Subscription Parent"
+msgstr "Solo suscripción"
+
+#: functions.php:743
+msgid "Only Subscription Renew"
+msgstr "Solo renovación de suscripción"
+
+#: functions.php:739
+msgid "Only this Rebill Subscription ID"
+msgstr "Solo este ID de suscripción de Rebill"
+
+#: functions.php:738
+msgid "Only this Rebill Transaction ID"
+msgstr "Solo este ID de transacción de Rebill"
+
+#: templates/admin-metabox.php:248 templates/admin-metabox.php:262
+#: templates/myaccount-list-related-orders.php:24
+msgid "Order"
+msgstr "Pedido"
+
+#. %s ID.
+#. %s: ID.
+#: templates/credit-card-request.php:202 templates/credit-card-request.php:204
+#: templates/credit-card-request.php:233
+#, php-format
+msgid "Order Number %1$s: %2$s"
+msgstr "Número de pedido %1$s: %2$s"
+
+#: includes/data-settings-rebill-gateway.php:49
+msgid "Organization UUID"
+msgstr "UUID de la organización"
+
+#: functions.php:502 functions.php:510 functions.php:516 functions.php:525
+#: functions.php:531
+msgid "Other"
+msgstr "Otro"
+
+#: functions.php:708 templates/admin-metabox.php:90
+#: templates/admin-metabox.php:101
+msgid "Parent Order"
+msgstr "Pedido Padre"
+
+#: includes/data-settings-rebill-gateway.php:43
+msgid "Password"
+msgstr "Contraseña"
+
+#: includes/data-settings-rebill-gateway.php:45
+msgid "Password access to the api"
+msgstr "Contraseña de acceso al API"
+
+#: templates/myaccount-table-items.php:28
+#: templates/myaccount-list-orders.php:61
+msgid "Paused"
+msgstr "Pausado"
+
+#: templates/myaccount-table-items.php:48
+msgid "Pay every N days"
+msgstr "Paga cada N días"
+
+#: templates/myaccount-table-items.php:52
+msgid "Pay every N months"
+msgstr "Paga cada N meses"
+
+#: templates/myaccount-table-items.php:55
+msgid "Pay every N years"
+msgstr "Paga cada N años"
+
+#: templates/credit-card-request.php:98 templates/credit-card-request.php:289
+#: templates/credit-card-request.php:307 templates/credit-card-request.php:312
+#: templates/credit-card-request.php:318
+msgid "Pay Now"
+msgstr "Pagar ahora"
+
+#: templates/credit-card-request.php:53
+msgid "Paying"
+msgstr "Pago"
+
+#: templates/credit-card-request.php:293
+msgid "Payment rejected, please verify your card details or contact your bank."
+msgstr ""
+"Pago rechazado, verifique los detalles de su tarjeta o comuníquese con su "
+"banco."
+
+#: templates/credit-card-request.php:261
+msgid "Please wait..."
+msgstr "Espere por favor..."
+
+#: includes/class-wc-rebill-cart.php:391 includes/class-wc-rebill-cart.php:482
+msgid "Products and subscriptions can not be purchased at the same time."
+msgstr ""
+"Los productos y las suscripciones no se pueden comprar al mismo tiempo."
+
+#: templates/myaccount-table-items.php:91
+msgid "Quantity of"
+msgstr "Cantidad de"
+
+#: includes/data-settings-rebill-gateway.php:28
+msgid "Rebill"
+msgstr "Rebill"
+
+#: functions.php:665 functions.php:744
+msgid "Rebill ID"
+msgstr "ID de Rebill"
+
+#: functions.php:1218
+msgid "Rebill Information"
+msgstr "Información de Rebill"
+
+#: functions.php:290
+msgid "Rebill Subscription"
+msgstr "Suscripción de Rebill"
+
+#. Name of the plugin
+msgid "Rebill Subscription for WooCommerce"
+msgstr "Rebill para WooCommerce"
+
+#: templates/admin-metabox.php:65
+msgid "Rebill Subscription ID"
+msgstr "ID de suscripción de Rebill"
+
+#. Description of the plugin
+msgid "Rebill Subscription plugin for WooCommerce"
+msgstr "Rebill para WooCommerce"
+
+#: templates/admin-metabox.php:23
+msgid "Rebill Transaction ID"
+msgstr "ID de transacción de Rebill"
+
+#. Author of the plugin
+msgid "Rebill, Inc."
+msgstr "Rebill, Inc."
+
+#: includes/class-wc-rebill-gateway.php:1017
+msgid "Rebill: A dispute has started over the payment."
+msgstr "Rebill: Ha comenzado una disputa sobre el pago."
+
+#: includes/class-wc-rebill-gateway.php:999
+msgid "Rebill: Incomplete payment, waiting for remaining payment."
+msgstr "Rebill: Pago incompleto, esperando el pago restante."
+
+#: includes/class-wc-rebill-gateway.php:995
+msgid "Rebill: Order complete."
+msgstr "Rebill: Pedido completado."
+
+#: includes/class-wc-rebill-gateway.php:817
+#: includes/class-wc-rebill-gateway.php:820
+msgid "Rebill: Parent order"
+msgstr "Rebill: Pedido padre"
+
+#: includes/class-wc-rebill-gateway.php:570
+msgid "Rebill: Parent Order."
+msgstr "Rebill: Pedido padre."
+
+#: includes/class-wc-rebill-gateway.php:991
+msgid "Rebill: Payment approved."
+msgstr "Rebill: Pago aprobado."
+
+#: includes/class-wc-rebill-gateway.php:1014
+msgid "Rebill: Payment cancelled."
+msgstr "Rebill: Pago cancelado."
+
+#: includes/class-wc-rebill-gateway.php:1006
+msgid "Rebill: Payment rejected, user must try again."
+msgstr "Rebill: Pago rechazado, el usuario debe intentarlo de nuevo."
+
+#: includes/class-wc-rebill-gateway.php:1007
+msgid "Rebill: Payment rejected."
+msgstr "Rebill: Pago rechazado."
+
+#: includes/class-wc-rebill-gateway.php:1018
+msgid "Rebill: The payment is in dispute."
+msgstr "Rebill: El pago está en disputa."
+
+#: includes/class-wc-rebill-gateway.php:988
+msgid "Rebill: The payment is in review."
+msgstr "Rebill: El pago está en revisión."
+
+#: includes/class-wc-rebill-gateway.php:1010
+msgid "Rebill: The payment was refunded to the customer."
+msgstr "Rebill: El pago se reembolsó al cliente."
+
+#: functions.php:1130 functions.php:1135
+msgid "Rebill: The subscription was canceled by admin."
+msgstr "Rebill: El administrador canceló la suscripción."
+
+#: functions.php:980 functions.php:985
+msgid "Rebill: The subscription was canceled by customer."
+msgstr "Rebill: El cliente canceló la suscripción."
+
+#: functions.php:1427
+msgid "Rebill: The subscription was canceled by rebill."
+msgstr "Rebill: La suscripción se canceló desde Rebill."
+
+#: functions.php:1250
+msgid "Rebill: The subscription was canceled by total order is changed."
+msgstr "Rebill: La suscripción fue cancelada por el cambio total del pedido."
+
+#: functions.php:1418
+msgid "Rebill: The subscription was canceled, is in default or failure."
+msgstr "Rebill: La suscripción fue cancelada, está en incumplimiento o falla."
+
+#: includes/class-wc-rebill-gateway.php:138
+msgid "Rebill: User or Pass invalid"
+msgstr "Rebill: Usuario o Contraseña no válido"
+
+#: functions.php:1260 functions.php:1465
+#: includes/class-wc-rebill-gateway.php:931
+msgid "Rebill: Waiting for payment date."
+msgstr "Rebill: Esperando la fecha de pago."
+
+#: functions.php:521
+msgid "Registro Único de Contribuyentes"
+msgstr "Registro Único de Contribuyentes"
+
+#. %s: Repetitions value.
+#: templates/myaccount-table-items.php:227 templates/admin-metabox.php:150
+#: templates/admin-metabox.php:218
+msgid "Repetitions"
+msgstr "Repeticiones"
+
+#: templates/admin-metabox.php:170
+msgid "Request Renew Card"
+msgstr "Solicitar Renovar Tarjeta"
+
+#: functions.php:509
+msgid "RUT"
+msgstr "RUT"
+
+#: includes/data-settings-rebill-gateway.php:76
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: templates/myaccount-table-items.php:136
+#: templates/myaccount-table-items.php:151
+#: templates/myaccount-table-items.php:164
+msgid "Save"
+msgstr "Guardar"
+
+#: functions.php:703
+msgid "See this on Rebill"
+msgstr "Ver esto en Rebill"
+
+#: templates/credit-card-request.php:18
+msgid "Select one credit card"
+msgstr "Seleccione una tarjeta de crédito"
+
+#: functions.php:18
+msgid "Setting"
+msgstr "Ajuste"
+
+#: functions.php:353
+msgid "Sign-up price"
+msgstr "Precio por Alta"
+
+#: templates/admin-metabox.php:251 templates/admin-metabox.php:276
+#: templates/myaccount-list-related-orders.php:58
+#: templates/myaccount-list-orders.php:87
+msgid "Status"
+msgstr "Estado"
+
+#: includes/data-settings-rebill-gateway.php:63
+#: includes/class-wc-rebill-gateway.php:66
+#: includes/class-wc-rebill-product.php:30
+msgid "Subscribe to this product"
+msgstr "Suscribirme Ahora"
+
+#. %s: Price value.
+#: includes/class-wc-rebill-product.php:102
+#, php-format
+msgid "Subscribe to this product for %s:"
+msgstr "Suscríbete a este producto por %s:"
+
+#: includes/class-wc-rebill-product.php:104
+msgid "Subscribe to this product:"
+msgstr "Suscríbete a este producto:"
+
+#: functions.php:569 functions.php:610 functions.php:666 functions.php:957
+msgid "Subscription"
+msgstr "Suscripción"
+
+#. %s: ID.
+#: includes/class-wc-rebill-gateway.php:672
+#, php-format
+msgid "Subscription %s - New Payment Order"
+msgstr "Suscripción %s - Nueva orden de pago"
+
+#: functions.php:570 functions.php:622
+msgid "Subscription Cancelled"
+msgstr "Suscripción cancelada"
+
+#: includes/class-wc-rebill-cart.php:814 includes/class-wc-rebill-cart.php:966
+#: includes/class-wc-rebill-product.php:182
+msgid "Subscription details"
+msgstr "Detalles de la suscripción"
+
+#: functions.php:310
+msgid "Subscription enable"
+msgstr "Habilitar suscripción"
+
+#: functions.php:691 functions.php:701
+msgid "Subscription ID"
+msgstr "ID de suscripción"
+
+#: templates/myaccount-list-orders.php:23
+msgid "Subscription Order"
+msgstr "Orden de suscripción"
+
+#: templates/myaccount-table-items.php:174
+msgid "Subscription Parent"
+msgstr "Suscripción principal"
+
+#: functions.php:344
+msgid "Subscription price"
+msgstr "Precio de suscripción"
+
+#: includes/class-wc-rebill-cart.php:813 includes/class-wc-rebill-cart.php:965
+msgid "Subscription Quantity"
+msgstr "Cantidad"
+
+#: functions.php:959
+msgid "Subscription Renew"
+msgstr "Renovación de suscripción"
+
+#: templates/myaccount-table-items.php:176
+msgid "Subscription Status"
+msgstr "Estado de suscripción"
+
+#: functions.php:989 functions.php:1139
+msgid "Subscription successfully canceled"
+msgstr "Suscripción cancelada con éxito"
+
+#: functions.php:710 functions.php:838
+msgid "Subscriptions"
+msgstr "Suscripciones"
+
+#: templates/myaccount-list-related-orders.php:38
+#: templates/myaccount-list-orders.php:76
+msgid "Subscriptions Order"
+msgstr "Pedidos de suscripción"
+
+#: includes/data-settings-rebill-gateway.php:66
+msgid "Text for button \"One-time purchase\""
+msgstr "Texto para el botón \"Compra única\""
+
+#: includes/data-settings-rebill-gateway.php:61
+msgid "Text for button \"Subscribe to this product\""
+msgstr "Texto para el botón \"Suscribirse a este producto\""
+
+#: includes/class-wc-rebill-gateway.php:234
+msgid ""
+"Thank you for your order, fill in the following information to process your "
+"order with"
+msgstr ""
+"Gracias por su pedido, complete la siguiente información para procesar su "
+"pedido con"
+
+#: functions.php:463
+msgid ""
+"The \"Collection date\" field can be edited by the customer in an active "
+"subscription?"
+msgstr ""
+"¿El campo \"Fecha de cobro\" puede ser editado por el cliente en una "
+"suscripción activa?"
+
+#: functions.php:387
+msgid ""
+"The \"Frequency\" field can be edited by the customer in an active "
+"subscription?"
+msgstr ""
+"¿El campo \"Frecuencia\" puede ser editado por el cliente en una suscripción "
+"activa?"
+
+#: functions.php:404
+msgid ""
+"The \"Maximum number of recurring payment\" field can be edited by the "
+"customer in an active subscription?"
+msgstr ""
+"¿El campo \"Número máximo de pagos recurrentes\" puede ser editado por el "
+"cliente en una suscripción activa?"
+
+#: includes/data-settings-rebill-gateway.php:24
+msgid "Title"
+msgstr "Título"
+
+#. %s: Path of log file.
+#: includes/data-settings-rebill-gateway.php:111
+#, php-format
+msgid "To review the Log download the file: %s"
+msgstr "Para revisar el registro, descargue el archivo: %s"
+
+#: functions.php:444
+msgid "Trial free for N Day/Month, for example: 30."
+msgstr "Prueba gratuita durante N días/mes, por ejemplo: 30."
+
+#: functions.php:326
+msgid ""
+"Update active subscriptions automatically if you change the cost of the "
+"product"
+msgstr ""
+"Actualizar las suscripciones activas automáticamente si cambia el costo del "
+"producto"
+
+#: functions.php:412 includes/data-settings-rebill-gateway.php:55
+msgid "URL of the Thank You Page for Subscribing"
+msgstr "URL de la página de agradecimiento por suscribirse"
+
+#: templates/credit-card-request.php:45
+msgid "Use old credit card"
+msgstr "Utilice una tarjeta de crédito antigua"
+
+#: includes/data-settings-rebill-gateway.php:37
+msgid "User"
+msgstr "Usuario"
+
+#: includes/data-settings-rebill-gateway.php:39
+msgid "User access to the api"
+msgstr "Nombre de usuario de acceso al api"
+
+#: functions.php:945
+msgid "User Invalid"
+msgstr "Usuario no válido"
+
+#: functions.php:952
+msgid "User or Order is Invalid"
+msgstr "El usuario o el pedido no es válido"
+
+#: templates/myaccount-list-orders.php:103
+msgid "View"
+msgstr "Ver"
+
+#: functions.php:568 functions.php:598
+msgid "Waiting for payment date"
+msgstr "Esperando la fecha de pago"
+
+#: functions.php:334
+msgid ""
+"Will the client be able to modify the quantity of products in an active "
+"subscription?"
+msgstr ""
+"¿Podrá el cliente modificar la cantidad de productos en una suscripción "
+"activa?"
+
+#: functions.php:1055
+msgid "Without subscription"
+msgstr "Sin suscripción"
+
+#: class-wc-rebill-subscription.php:88
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. %s: Plugin name.
+#: class-wc-rebill-subscription.php:88
+#, php-format
+msgid "WooCommerce Rebill Gateway depends on the last version of %s to work!"
+msgstr ""
+"¡WooCommerce Rebill Gateway depende de la última versión de %s para que "
+"funcione!"
+
+#: functions.php:366 templates/admin-metabox.php:190
+msgid "Year"
+msgstr "Año"
+
+#: functions.php:95
+msgid "You must have at least one product in the subscription."
+msgstr "Debe tener al menos un producto en la suscripción."
+
+#: includes/class-wc-rebill-product.php:182
+msgid "You pay"
+msgstr "Tú pagas"
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-cart.php:819 includes/class-wc-rebill-cart.php:970
+#: templates/myaccount-table-items.php:209
+#, php-format
+msgid "You pay every %s day"
+msgid_plural "You pay every %s days"
+msgstr[0] "Paga cada %s día"
+msgstr[1] "Pagas cada %s días"
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-cart.php:823 includes/class-wc-rebill-cart.php:974
+#: templates/myaccount-table-items.php:213
+#, php-format
+msgid "You pay every %s month"
+msgid_plural "You pay every %s months"
+msgstr[0] "Paga cada %s mes"
+msgstr[1] "Pagas cada %s meses"
+
+#. %s: Frequency value.
+#: includes/class-wc-rebill-cart.php:827 includes/class-wc-rebill-cart.php:978
+#: templates/myaccount-table-items.php:217
+#, php-format
+msgid "You pay every %s year"
+msgid_plural "You pay every %s years"
+msgstr[0] "Paga cada %s año"
+msgstr[1] "Pagas cada %s años"

@@ -1,0 +1,65 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "478d9b93714c6a420d8ad6486393d88a",
+    "packages": [
+        {
+            "name": "rebillto/sdk-php",
+            "version": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "../../SDKs/sdk-php-v2",
+                "reference": "db5b3a49fd06a7c43055a41c3be8a00f44aa5754"
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "8.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Rebill\\SDK\\": "src/"
+                }
+            },
+            "scripts": {
+                "test": [
+                    "phpunit tests"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kijam Lopez",
+                    "email": "kijam@rebill.to"
+                }
+            ],
+            "description": "Rebill's Official PHP SDK",
+            "keywords": [
+                "php",
+                "rebill",
+                "sdk"
+            ],
+            "transport-options": {
+                "relative": true
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "rebillto/sdk-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
